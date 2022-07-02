@@ -1,6 +1,3 @@
-# CQRS
-Simple ASP.Net Core CQRS Web API Project 
-
 # Implementation of CQRS Pattern in a ASP.NET Web Application
 ## Introduction
 CQRS means Command Query Responsibility Segregation. It is not an entire architecture. CQRS is just a small pattern. The main idea behind CQS is: “A method should either change state of an object, or return a result, but not both". In other words, asking the question should not change the answer.
