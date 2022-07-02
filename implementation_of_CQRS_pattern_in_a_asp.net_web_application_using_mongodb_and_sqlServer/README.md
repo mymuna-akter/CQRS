@@ -1,6 +1,6 @@
 # Implementation of CQRS Pattern (using SQLServer ,MongoDB) in ASP.Net Web Application
 
-[CQRS Introduction](https://github.com/mahedee/Articles/blob/master/microservices/implementation-of-cqrs-pattern-in-a-asp.net-web-application.md)
+[CQRS Introduction](https://github.com/mymuna-akter/CQRS/tree/master/implementation-of-cqrs-pattern-in-a-asp.net-web-application/README.md)
 
 >For Read Database, MongoDb is used and for Write Database, SQl Server is used.
 
