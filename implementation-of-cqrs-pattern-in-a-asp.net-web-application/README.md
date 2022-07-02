@@ -20,7 +20,7 @@ As you can see, Read site and Write site are separate services. Both sites consi
  ## Part:1 Write Service
 First of all create an ASP.Net Core Api project for write name that project "WriteSite".
   
-![](../img/CQRSReadsite.PNG)
+![IMAGE](../img/CQRSWritesite.PNG)
 
 Now create a new folder for Model class, name that folder "Students",in Students folder create a new model class named "Student.cs".
 
@@ -274,7 +274,7 @@ Update-Database
  First of all create an ASP.Net Core Api project for write name that project "ReadSite".
   
     
-![](../img/CQRSWritesite.PNG)
+![](../img/CQRSReadsite.PNG)
 
 Now create a new folder for Model class and name that folder "Students". In Students folder create a new model class named "Student.cs".
 
@@ -573,4 +573,3 @@ List of packages for both ReadSite and WriteSite is given below
 
 > Full Project Link
 [Implementing CQRS in ASP.Net Core](https://github.com/mahedee/Articles/blob/master/Code/CQRS_ASPDOTNET_CORE.zip)
-
