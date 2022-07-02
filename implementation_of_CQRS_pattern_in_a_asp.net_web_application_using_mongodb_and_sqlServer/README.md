@@ -336,7 +336,7 @@ Now open StartUp.cs class and add the following Code:
 
 First of all create an ASP.Net Api project for the write-Site, name that project "WriteSiteSQL". SqlServer is used for the write-site database
   
-![IMAGE](../img/CQRSWriteSiteSQL.png)
+![IMAGE](../img/CQRSWriteSiteSql.png)
 
 Now create a new folder for Model class, name that folder "Model", in Model folder create a new model class named "Book.cs".
 
